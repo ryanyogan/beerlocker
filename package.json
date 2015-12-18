@@ -1,0 +1,19 @@
+{
+  "name": "beerlocker",
+  "version": "0.0.1",
+  "description": "A small locker to hold your beers",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanyogan/beerlocker.git"
+  },
+  "author": "Ryan Yogan <ryanyogan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanyogan/beerlocker/issues"
+  },
+  "homepage": "https://github.com/ryanyogan/beerlocker#readme"
+}
